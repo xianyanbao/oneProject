@@ -1,0 +1,7 @@
+@Controller
+public class Controller(){
+  @GetMapping("/api/user")
+  public String user(){
+    return "ok";
+  }
+}
