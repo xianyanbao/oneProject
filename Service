@@ -1,0 +1,7 @@
+@Service
+public class Service(){
+
+public string userService(){
+return "hi";
+}
+}
